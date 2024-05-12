@@ -3,7 +3,6 @@ import { useContext } from 'react'
 import './Scoreboard.css'
 import { AiOutlineHome, AiOutlineEye } from 'react-icons/ai'
 import { BiReset } from 'react-icons/bi'
-import { BsShare } from 'react-icons/bs'
 import quizContext from '../../context/quizContext'
 import { Link as ReachLink } from 'react-router-dom'
 
